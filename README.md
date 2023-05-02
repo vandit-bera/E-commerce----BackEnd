@@ -1,1 +1,1 @@
-# Working in progress
+# E-commerce backend
